@@ -21,14 +21,14 @@ The dataset includes various *physical measurements* of crabs, with the goal of 
 | Feature          | Description                                                              |
 | ---------------- |--------------------------------------------------------------------------|
 | Sex            | Categorical: 'M' (Male), 'F' (Female), 'I' (Indeterminate)                     |
-| Length         | Longest shell length (in mm)                                             |
-| Diameter       | Perpendicular to length (in mm)                                          |
-| Height         | Height of the whole crab (in mm)                                         |
-| Weight         | Whole weight of the crab (in grams)                                      |
-| Shucked Weight | Weight of meat (in grams)                                                |
-| Viscera Weight | Gut weight (in grams)                                                    |
-| Shell Weight   | Weight of shell after drying (in grams)                                  |
-| Age            | *Target variable*, estimated from the number of growth rings (in months) |
+| Length         | Longest shell length (in Feet)                                             |
+| Diameter       | Perpendicular to length (in Feet)                                          |
+| Height         | Height of the whole crab (in Feet)                                         |
+| Weight         | Whole weight of the crab (in ounces)                                      |
+| Shucked Weight | Weight of meat (in ounces)                                                |
+| Viscera Weight | Gut weight (in ounces)                                                    |
+| Shell Weight   | Weight of shell after drying (in ounces)                                  |
+| Age            | *Target variable* (in months) |
 
 ---
 
