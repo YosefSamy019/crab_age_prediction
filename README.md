@@ -152,7 +152,7 @@ and more evaluations shown in images
 
 ## 🚀 Demo
 
-🔗 [Click here to try the demo](https://your-demo-link.streamlit.app)
+🔗 [Click here to try the demo](https://crabageprediction-githappxxfxuojnwsqumwjp.streamlit.app/)
 ---
 
 ## 📸 Screenshots

@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#00CED1"              # Cool turquoise for highlights and buttons
+backgroundColor="#121212"           # Deep dark gray (almost black) for main background
+secondaryBackgroundColor="#1F1F1F"  # Dark slate for widgets and sidebars
+textColor="#E0E0E0"                 # Light gray for smooth readability
+font="sans serif"

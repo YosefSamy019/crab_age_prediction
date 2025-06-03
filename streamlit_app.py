@@ -59,7 +59,7 @@ def main():
                 st.subheader(f"{output_crab_age:0.2f}")
 
     with cols[0]:
-        st.image(r'crab_features.jpg')
+        st.image(r'readme_assets/crab_features.jpg')
 
         st.write("""
 ***Length*** of the Crab (in Feet; 1 foot = 30.48 cms)
