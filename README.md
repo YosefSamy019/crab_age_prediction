@@ -159,6 +159,7 @@ and more evaluations shown in images
 
 ![Features](readme_assets/crab_features.jpg)
 ![Features](readme_assets/corr_mat.png)
+![Features](readme_assets/corr_mat_out.png)
 ![Features](readme_assets/eval_mae.png)
 ---
 
