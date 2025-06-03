@@ -157,7 +157,9 @@ and more evaluations shown in images
 
 ## 📸 Screenshots
 
-![Features](crab_features.jpg)
+![Features](readme_assets/crab_features.jpg)
+![Features](readme_assets/corr_mat.png)
+![Features](readme_assets/eval_mae.png)
 ---
 
 ## ✅ **Conclusion**
